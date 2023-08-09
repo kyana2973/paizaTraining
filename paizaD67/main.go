@@ -1,4 +1,4 @@
-//問題文URL:https://paiza.jp/works/mondai/array_primer/array_primer__2dmatrix_input_step4
+//問題文URL:https://paiza.jp/works/mondai/array_primer/array_primer__2dmatrix_i-thoutput_step2
 
 package main
 
